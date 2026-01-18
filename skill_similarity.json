@@ -1,0 +1,6 @@
+{
+  "PostgreSQL": ["MySQL"],
+  "React": ["JavaScript"],
+  "Kubernetes": ["Docker"],
+  "AWS": ["Cloud Basics"]
+}

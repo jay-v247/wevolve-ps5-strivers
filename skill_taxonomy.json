@@ -1,0 +1,22 @@
+{
+  "Frontend": {
+    "JavaScript": { "difficulty": 2, "months": 1, "prerequisite": [] },
+    "React": { "difficulty": 3, "months": 2, "prerequisite": ["JavaScript"] }
+  },
+  "Backend": {
+    "Python": { "difficulty": 1, "months": 1, "prerequisite": [] },
+    "FastAPI": { "difficulty": 2, "months": 1, "prerequisite": ["Python"] }
+  },
+  "Database": {
+    "MySQL": { "difficulty": 1, "months": 1, "prerequisite": [] },
+    "PostgreSQL": { "difficulty": 2, "months": 1.5, "prerequisite": [] },
+    "Redis": { "difficulty": 2, "months": 1, "prerequisite": [] }
+  },
+  "DevOps": {
+    "Git": { "difficulty": 1, "months": 0.5, "prerequisite": [] },
+    "Docker": { "difficulty": 2, "months": 1, "prerequisite": [] },
+    "Kubernetes": { "difficulty": 3, "months": 2, "prerequisite": ["Docker"] },
+    "AWS": { "difficulty": 3, "months": 2, "prerequisite": [] },
+    "CI/CD": { "difficulty": 2, "months": 1, "prerequisite": ["Git"] }
+  }
+}
