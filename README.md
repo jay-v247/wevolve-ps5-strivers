@@ -1,5 +1,6 @@
 # wevolve-ps5-strivers
 A FastAPI-based system that analyzes a candidate’s current skills against a target role to identify skill gaps, calculate readiness, and generate a structured learning roadmap. The solution uses a domain-based skill taxonomy with priorities, prerequisites, and time estimates to support data-driven career progression planning.
+
 Final Project link:file:///C:/study/wevolve-ps5-strivers/Skill%20Gap%20Analyzer.html
  Features
 Skill Gap Analysis
@@ -236,3 +237,4 @@ Thanks to all contributors and testers
 Roadmap
 
 See our project roadmap for planned features and upcoming releases.
+
